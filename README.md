@@ -1,4 +1,4 @@
 # YouTube-Bookmark-Chrome-Extension
 A chrome extention which can bookmark specified timestamps. It can also take screenshots at those timestamps.
-/n
+
 This Chrome extension I've developed enhances the YouTube experience by enabling users like you to effortlessly bookmark specific video timestamps and capture screenshots for quick reference. Built using JavaScript, HTML, and CSS, it seamlessly integrates into YouTube pages, allowing you to mark important moments with a simple click and save snapshots visually. Your bookmarks are securely stored using Chrome's Storage API, ensuring they're accessible across your browsing sessions. The extension features an intuitive interface that lets you rename bookmarks and add comments, making it easy to organize and manage video content for educational, research, or personal purposes. It's designed to streamline your interaction with YouTube, enhancing productivity and facilitating efficient annotation and review of video segments.
